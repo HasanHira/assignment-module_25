@@ -1,6 +1,6 @@
 @extends('frontend.app_master')
 @section('site_title')
-    DevLand - Events Details
+    HasanHira - Events Details
 @endsection
 @section('main')
     <!-- services-area -->

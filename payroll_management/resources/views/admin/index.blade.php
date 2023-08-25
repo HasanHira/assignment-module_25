@@ -1,6 +1,6 @@
 @extends('admin.admin_master')
 @section('site_title')
-    Dashboard | Devland
+    Dashboard | HasanHira
 @endsection
 @section('admin')
     <div class="page-content">
@@ -14,7 +14,7 @@
 
                         <div class="page-title-right">
                             <ol class="breadcrumb m-0">
-                                <li class="breadcrumb-item"><a href="javascript: void(0);">Devland</a></li>
+                                <li class="breadcrumb-item"><a href="javascript: void(0);">HasanHira</a></li>
                                 <li class="breadcrumb-item active">Dashboard</li>
                             </ol>
                         </div>

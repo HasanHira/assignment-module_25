@@ -1,6 +1,6 @@
 @extends('admin.admin_master')
 @section('site_title')
-    Edit Category | Devland
+    Edit Category | HasanHira
 @endsection
 @section('admin')
     <div class="page-content">
@@ -12,7 +12,7 @@
                         <h4 class="mb-sm-0">Edit Category</h4>
                         <div class="page-title-right">
                             <ol class="breadcrumb m-0">
-                                <li class="breadcrumb-item"><a href="javascript: void(0);">Devland</a></li>
+                                <li class="breadcrumb-item"><a href="javascript: void(0);">HasanHira</a></li>
                                 <li class="breadcrumb-item active">Edit Category</li>
                             </ol>
                         </div>

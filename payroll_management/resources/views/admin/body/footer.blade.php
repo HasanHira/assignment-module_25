@@ -4,11 +4,11 @@
             <div class="col-sm-6">
                 <script>
                     document.write(new Date().getFullYear())
-                </script> © Devland.
+                </script> &copy; HasanHira
             </div>
             <div class="col-sm-6">
                 <div class="text-sm-end d-none d-sm-block">
-                    Crafted with <i class="mdi mdi-heart text-danger"></i> by Towfik Hasan
+                    Crafted with <i class="mdi mdi-heart text-danger"></i> Md Hasanuzzaman
                 </div>
             </div>
         </div>

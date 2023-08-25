@@ -6,7 +6,7 @@
                 <div class="footer__widget">
                     <div class="fw-title">
                         <h5 class="sub-title">Contact us</h5>
-                        <h4 class="title">01521489753</h4>
+                        <h4 class="title">01922327879</h4>
                     </div>
                     <div class="footer__widget__text">
                         <p>There are many variations of passages of lorem ipsum available but the majority have suffered
@@ -21,8 +21,8 @@
                         <h4 class="title">Bangladesh</h4>
                     </div>
                     <div class="footer__widget__address">
-                        <p>123 Example Street</p>
-                        <a href="tufikhasan05@gmail.com" class="mail">tufikhasan05@gmail.com</a>
+                        <p>156, Darbar Sharif Road, Konapara</p>
+                        <a href="tufikhasan05@gmail.com" class="mail">hasanhira.me@gmail.com</a>
                     </div>
                 </div>
             </div>
@@ -48,7 +48,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="copyright__text text-center">
-                        <p>Copyright @ tufikhasan.com 2023 All right Reserved</p>
+                        <p>Copyright &copy; hasanhira.me 2023 All right Reserved</p>
                     </div>
                 </div>
             </div>
